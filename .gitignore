@@ -1,0 +1,10 @@
+node_modules
+dist
+dev-dist
+coverage
+*.local
+.DS_Store
+
+# Documentos pessoais da nutricionista (contêm dados do paciente). Remova estas linhas se quiser versioná-los.
+docs/nutricionista/*.pdf
+docs/nutricionista/*.txt
